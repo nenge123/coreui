@@ -1,6 +1,6 @@
 languageCode:           "en"
 title:                  "CoreUI"
-baseURL:                "https://coreui.nenge.net/docs/"
+baseURL:                "https://coreui.nenge.net/"
 canonifyURLs:           true
 
 security:
